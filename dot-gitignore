@@ -1,0 +1,8 @@
+#Ingore the locsl .env file
+#
+.env
+
+#Ignore the sql backup file
+#
+my-detest.sql
+my-wp-backup.sql
